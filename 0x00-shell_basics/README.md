@@ -7,3 +7,4 @@
 6 - This scripts creates a directory "my_first_directory" inside the /tmp/ directory
 7 - A script to move the file "betty" from the root of /tmp/ to /tmp/my_first_directory
 8 - A script to delete the betty file inside /tmp/my_first_directory
+9 - This script wil delete the my_first_directory in the /tmp/ directory
