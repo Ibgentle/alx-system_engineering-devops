@@ -5,4 +5,4 @@
 4 - This script displays all current directory contents, including hidden files, in a long format
 5 - This script displays files in a long format with uid and gid shown numerically
 6 - This scripts creates a directory "my_first_directory" inside the /tmp/ directory
- 
+7 - A script to move the file "betty" from the root of /tmp/ to /tmp/my_first_directory
