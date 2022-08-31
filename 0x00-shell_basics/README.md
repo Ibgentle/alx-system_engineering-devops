@@ -11,3 +11,4 @@
 10 - A script to move from the current directory to the previous
 11 - A script to list the content of the cwd, its parent, and the /boot directory in a long format
 12 - A script to display the file type of a file called "iamafile" in the /tmp directory
+13 - This script creates a symbolic link to /bin/ls inside the current working directory
