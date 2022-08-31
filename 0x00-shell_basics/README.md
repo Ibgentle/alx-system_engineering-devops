@@ -16,3 +16,4 @@
 100 - A script to move all files with uppercase names to the /tmp/u directory
 101 - A script to delete all emacs files (files ending in ~)
 102 - This script creates three directories
+103 - A script to list files separated by comma
