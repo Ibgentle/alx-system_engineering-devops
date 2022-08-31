@@ -14,3 +14,4 @@
 13 - This script creates a symbolic link to /bin/ls inside the current working directory
 14 - This script copies all html files from the current working directory to its parent
 100 - A script to move all files with uppercase names to the /tmp/u directory
+101 - A script to delete all emacs files (files ending in ~)
