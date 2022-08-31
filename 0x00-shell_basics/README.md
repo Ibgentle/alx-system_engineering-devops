@@ -13,3 +13,4 @@
 12 - A script to display the file type of a file called "iamafile" in the /tmp directory
 13 - This script creates a symbolic link to /bin/ls inside the current working directory
 14 - This script copies all html files from the current working directory to its parent
+100 - A script to move all files with uppercase names to the /tmp/u directory
