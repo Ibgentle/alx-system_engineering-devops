@@ -3,4 +3,6 @@
 2 - This script changes the current working directory to the user's home directory
 3 - This script will display the current directory contents in a long format
 4 - This script displays all current directory contents, including hidden files, in a long format
-5 - This script displays files in a long format with uid and gid shown numerically 
+5 - This script displays files in a long format with uid and gid shown numerically
+6 - This scripts creates a directory "my_first_directory" inside the /tmp/ directory
+ 
