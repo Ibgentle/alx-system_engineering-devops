@@ -17,3 +17,4 @@
 101 - A script to delete all emacs files (files ending in ~)
 102 - This script creates three directories
 103 - A script to list files separated by comma
+school.mgc - A simple magic file to match SCHOOL in file names that have school in them
